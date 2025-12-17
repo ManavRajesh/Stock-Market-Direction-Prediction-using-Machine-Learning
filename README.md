@@ -60,5 +60,4 @@ The trading simulation demonstrates the practical usefulness of the predictions 
 
 ---
 
-## 🗂 Project Structure
 
